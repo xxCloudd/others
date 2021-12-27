@@ -4,6 +4,8 @@ all 2006 active accounts
 merry christmas!
 
 users: 7413/11394
+verified: 4620
+unverified: 2794
 
 id:username:verified
 
